@@ -1,9 +1,10 @@
 # Purpose 
   - This is code that I wrote for CSCI 403, Intro to Operating Systems (Spring2022) 
   - The purpose was to encapsulate Linux's sys/msg.h's functionality in a message queue program 
-  - msg.h is a program which 
+  - msg.h is a system which allows programs to communicate with each other 
   - The header and the C++ file are included. There were 2 more classes that used the message queue, but they are now lost 
   - This project received a 7.3 / 10. Lost points were due to wrong report format and failure to attach code output to report. 
+  - I used this site to learn about msg.h: https://pubs.opengroup.org/onlinepubs/7908799/xsh/sysmsg.h.html
 # Functions
 ## Constructor 
   - Sets key 
